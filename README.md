@@ -1,2 +1,1 @@
-# johnpaulsondev
-My Resume 
+lynq-backend 
